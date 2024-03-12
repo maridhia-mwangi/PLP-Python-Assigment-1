@@ -1,0 +1,6 @@
+name= input ("Enter name: ")
+age= input ("Enter age: ")
+location= input ("Enter location: ")
+print (f"Hey {name}, Welcome!" + " Here is your brief description.", end= '\n') 
+print (f"You are {age} years old" + " as of 2024.", end='\n')
+print (f"And are currently residing in {location}.")
